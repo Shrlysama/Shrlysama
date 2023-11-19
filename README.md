@@ -1,6 +1,5 @@
 - Hi Im Shrlysama
-- Im currently learning Js
-- You can reach me on Discord: Shinda Karasu#0001
+- Im currently learning Python and bit C++
 
 <!---
 Shrlysama/Shrlysama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
