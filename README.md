@@ -1,5 +1,5 @@
 - Hi Im Shrlysama
-- Im currently learning Python and bit C++
+- Im currently studying Physics and doing some coding as a hobby
 
 <!---
 Shrlysama/Shrlysama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
